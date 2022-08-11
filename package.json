@@ -69,7 +69,7 @@
     "lodash": "^4.17.15",
     "loopback-connector": "^4.8.0",
     "loopback-connector-kv-redis": "^3.0.1",
-    "loopback-connector-postgresql": "^3.7.0",
+    "loopback-connector-postgresql": "^5.5.1",
     "loopback4-authentication": "^2.1.1",
     "loopback4-authorization": "^2.3.2",
     "loopback4-soft-delete": "^1.2.0",
